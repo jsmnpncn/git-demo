@@ -5,7 +5,5 @@ commands, branching, and merging.
 
 
 
-This demo repository is a activity for Applications Development
-
-and Emerging Technologies.
+This demo repository is a activity for Applications Development and Emerging Technologies.
 
